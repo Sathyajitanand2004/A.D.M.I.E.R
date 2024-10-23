@@ -1,0 +1,21 @@
+patient_id,patient_gender,patient_name,license_no,phone_no,diagnosis_code,illness_statement,date_of_birth
+89db4423-2d37-44d1-854c-94cf80031843,Female,Anita Herrera,806329,4401528409,C54.3,Malignant neoplasm of fundus uteri,1954-03-03
+2559e6a3-4279-4b78-8827-f48d84204947,Female,Stephanie Richards,44432322,1807311958,D65,Disseminated intravascular coagulation [defibrination syndrome],1987-05-06
+53598074-479d-47ad-8111-eb45f48a0362,Female,Cory Dominguez,61819898,5419013666,F12.15,Cannabis abuse with psychotic disorder,1987-06-25
+649a28e9-47f4-474d-b7f1-f7321278e6a7,Male,Justin Case,30398932,653265740,C94.6,"Myelodysplastic disease, not classified",2003-08-25
+ac30b36d-6474-41e4-826a-3fb2b63a76e6,Male,Zachary Young,32779810,77762824,F40.01,Agoraphobia with panic disorder,1991-10-07
+d5527497-6757-4e64-a850-2a5178fe289c,Male,Rick Thompson,47981804,7595257809,C38.2,Malignant neoplasm of posterior mediastinum,1981-03-28
+ddd49a93-da7e-465f-aec3-6b99d3f5cd6d,Female,Alexis Johnson,22643205,2941146088,M51,"Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders",1984-05-11
+787d0ba7-7cdc-4e08-a4df-70d4059e98ab,Male,Mark Williams,47824986,7803545871,M51,"Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders",1937-08-23
+441b80b0-87e5-4189-81a3-324a4456bd87,Male,Vincent Perez,54738212,4538774132,M05.752,Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement,1988-01-31
+b0b1c163-54c6-411a-9060-dd19831ebb5e,Female,Mark Robinson,49427601,247234882,M05.752,Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement,1991-06-10
+08149ab4-71aa-4dda-b591-4426ebfa2ce1,Male,Rose Kelly DVM,11631751,1239666068,C54.3,Malignant neoplasm of fundus uteri,1999-09-25
+68333b8e-7b3a-4ebc-814f-cc4c3b90de53,Female,Ryan Olson,13048581,714777076,DCE5AEB8-6DB9-4106-8AE4-02CCC5C23741,"Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified",1934-07-09
+3f498a79-1975-4579-a190-1419c47f0387,Female,Valerie Luna,88058194,1018218030,C94.6,"Myelodysplastic disease, not classified",1982-07-22
+2d4bf2fb-1704-44aa-914f-2a838a548137,Male,Amanda Franklin,80395377,908200712,C92.1,"Chronic myeloid leukemia, BCR/ABL-positive",1937-04-02
+9bce219e-1c79-4cd3-ad24-7c89f3ae18cd,Male,Jason Mitchell,16829854,63781360,M01.X,Direct infection of joint in infectious and parasitic diseases classified elsewhere,1960-03-31
+1f2afc14-68a6-4d39-867a-f966f42ae906,Female,Charles Maxwell,59095015,8023411831,C40.11,Malignant neoplasm of short bones of right upper limb,1971-08-01
+50ee008e-3269-4279-89ea-cd62e6aa216a,Male,Robert Goodwin,14237234,1812473470,I97.81,Intraoperative cerebrovascular infarction,1963-02-17
+3beb0c0a-5e75-4c47-ba8e-eb9f810c1f04,Female,Marc Mcneil,92723963,7694935039,C92.1,"Chronic myeloid leukemia, BCR/ABL-positive",1965-12-16
+07f24090-2f21-4624-9d1f-09610c3c4a73,Male,Jason Bass,56710797,3207469480,M12.162,"Kaschin-Beck disease, left knee",1975-03-07
+600b7bfe-8d9c-4ef8-a9ea-d8693f3e79ac,Female,Jose Oneill,18796729,914951231,C54.3,Malignant neoplasm of fundus uteri,1954-06-24
