@@ -74,19 +74,6 @@ To set up and run the **A.D.M.I.E.R** application locally, follow the steps belo
 
 ---
 
-### **Project Structure:**
-
-```txt
-ADMIER/
-│
-├── admier.py                  # Main Python file containing the application logic
-├── requirements.txt           # Required dependencies for the project
-├── README.md                  # Project documentation
-├── static/                    # Static files (if any)
-└── templates/                 # HTML templates for the web app
-```
-
----
 
 ### **How A.D.M.I.E.R Works:**
 
