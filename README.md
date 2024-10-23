@@ -1,4 +1,4 @@
-# A.D.M.I.E.R
+# AI-Driven Medical History Insertion and Expert Retrieval (A.D.M.I.E.R)
 A.D.M.I.E.R is an AI-driven chatbot system for secure medical record storage and retrieval, enhancing healthcare decision-making efficiency
 
 Here's a detailed project description and `README.md` file formatted for pushing to GitHub for your A.D.M.I.E.R project.
