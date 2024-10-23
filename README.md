@@ -67,7 +67,7 @@ To set up and run the **A.D.M.I.E.R** application locally, follow the steps belo
    Once everything is set up, run the application using the following command:
 
    ```bash
-   python -m streamlit run admier.py
+   python -m streamlit run ADMIER.py
    ```
 
    This will launch the **A.D.M.I.E.R** web application in your browser.
