@@ -81,7 +81,7 @@ To set up and run the **A.D.M.I.E.R** application locally, follow the steps belo
    Healthcare professionals can input patient medical history using an intuitive user interface. The system stores this data securely in a database.
 
 2. **Expert Retrieval and Analysis:**  
-   The AI model, powered by OpenAI's machine learning capabilities, can analyze medical histories and provide accurate responses to health-related queries from medical workers.
+   The AI model powered by OpenAI's machine learning capabilities, can analyze medical histories and provide accurate responses to health-related queries from medical workers.
 
 3. **Data Security:**  
    Patient data is protected by advanced security features such as OTP verification to ensure unauthorized access is prevented.
