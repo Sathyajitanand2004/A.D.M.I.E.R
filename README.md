@@ -22,7 +22,7 @@ With the help of A.D.M.I.E.R, healthcare workers can easily store, retrieve, and
 ---
 ## System Efficiency:
 
-**Manual Effort Reduction**: `90%`
+- **Manual Effort Reduction**: `90%`
 ---
 
 ### **Installation and Setup**
