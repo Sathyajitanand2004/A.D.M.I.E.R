@@ -20,6 +20,10 @@ Key features of **A.D.M.I.E.R** include:
 With the help of A.D.M.I.E.R, healthcare workers can easily store, retrieve, and analyze patients' historical medical records, improving decision-making and patient outcomes.
 
 ---
+## System Efficiency:
+
+**Manual Effort Reduction**: `90%`
+---
 
 ### **Installation and Setup**
 
